@@ -39,7 +39,7 @@
 
 ---
 
-### 🌟 **Tech Stack Image**
+### 🌟 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,js,ts,node,express,fastify,remix,prisma,mongodb,postgres,redis,docker,aws,linux,git,github,vscode,bash,tailwind" />
 </p>

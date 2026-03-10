@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **open-source contributions & cloud computing**.  
 - 🤝 Looking to collaborate on **exciting projects that push the limits**.  
 - 📫 Reach me at **martinwarren2000@gmail.com**.
-- 📄 Resume: View my professional experience and projects here – [[Resume Link]([url](https://docs.google.com/document/d/1lkc2oIGxKTSqxXChl5BG0ttif7ukb34dOkToddENVjU/edit?usp=sharing))].
+- 📄 Resume: View my professional experience and projects here – [Resume](https://docs.google.com/document/d/1lkc2oIGxKTSqxXChl5BG0ttif7ukb34dOkToddENVjU/edit?usp=sharing)
 - ⚡ Fun fact: **Every bug teaches me something new.**  
 
 ---
